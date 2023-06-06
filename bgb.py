@@ -1,8 +1,3 @@
-__Tác_Giả__ = 'Bui Gia Bao'
-__Được_Làm_Bởi__ = 'BuiGiabao'
-__Đôi_Lời_Muốn_Gửi_Đến_Những_Thằng_Decode__ = 'Trùm Lê Quang Dũng Thách Thằng Mõm Nào Dec'
-
-# En Thì Dễ Chỉ Là Không Thể Giải Mã Dược!
 
 from socket import socket, AF_INET, SOCK_STREAM
 from traceback import print_exc
